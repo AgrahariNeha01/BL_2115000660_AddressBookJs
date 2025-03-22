@@ -72,5 +72,5 @@ function contactDetails(firstName,lastName,address,state,city,zipCode,email,phon
 }
 
 //UC3 
-contactDetails('Archi', 'Agarwal', 'Home', 'Uttar Pradesh', 'Archi', "282002", 'Archi@gmail.com', "9999999999");
+contactDetails('Neha', 'Agrahari', 'Home', 'Uttar Pradesh', 'Neha', "208015", 'neha@gmail.com', "9999999999");
 console.log(addressBook);
